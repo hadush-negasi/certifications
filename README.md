@@ -1,6 +1,6 @@
 # 📜 Professional Certifications
 
-This repository contains verified copies of my professional certifications i got from various organizations including Coursera, Oracle, IBM, Cisco and others. This is for reference and verification by recruiters, employers, and collaborators.
+This repository contains verified copies of my professional certifications i got from various organizations including **Coursera**, **Oracle**, **IBM**, **Cisco** and others. This is for reference and verification by recruiters, employers, and collaborators.
 
 ---
 
